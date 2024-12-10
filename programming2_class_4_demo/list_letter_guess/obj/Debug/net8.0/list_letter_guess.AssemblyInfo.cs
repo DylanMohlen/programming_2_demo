@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("list_letter_guess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4021ba9bfa1fefe4522615f839c159a20b364e09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+345835f635da699460aa0f3a62c90072cb7c0587")]
 [assembly: System.Reflection.AssemblyProductAttribute("list_letter_guess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("list_letter_guess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
